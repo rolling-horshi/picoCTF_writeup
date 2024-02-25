@@ -9,7 +9,7 @@
 
 ウェブサイトにアクセスします。
 
-![image1](./images/saturn.picoctf.net_56488_.png)
+![image1](./images/saturn.picoctf.net_49386_.png)
 
 適当なIDとパスでログインしてみます。
 
